@@ -1,9 +1,9 @@
 # About Me
-Hey👋! My name is Christoffer and I am currently attending the Medialogy Master at Aalborg University Copenhagen.   
+Hey👋! My name is Christoffer and I am currently attending the Medialogy Master at Aalborg University Copenhagen. 
 ---
 # 🎓 Education
 
-| Level | Path | Place | Time Period | Focus |
+<h2 align="center">| Level | Study | Place | Time Period | Focus |</h1>
 
 | 🟣 Masters **Current** | MSc Medialogy | AAU Copenhagen | Sep. 2025 -> | Building on BSc Medialogy foundations |
 
@@ -13,7 +13,27 @@ Hey👋! My name is Christoffer and I am currently attending the Medialogy Maste
 
 ---
 # Projects
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong style="font-size:1.2rem;">The Burglary at the Museé d'Art Moderne de Paris</strong><br/>
+      <a href="https://beckudrup.itch.io/theburglaryatthe">
+        <img src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" 
+             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
+             alt="The Burglary"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <strong style="font-size:1.2rem;">Killer on Board</strong><br/>
+      <a href="https://deadpiegamer.itch.io/killer-on-board">
+        <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" 
+             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
+             alt="Killer On Board"/>
+      </a>
+    </td>
+    <td></td> <!-- Empty cell to keep layout 2 per row -->
+  </tr>
+</table>
 
 ---
 # Skills and Tools
@@ -27,8 +47,9 @@ Oudrup, C. B., Krog, F. B., Winkel Missel, J., Abildgaard, L. L., Hansen, M. K.,
 # Contact Information
 
 Contact me at: 
-Student Mail <a href="mailto:coudru@student.aau.dk">coudru22@student.aau.dk</a>
-Personal Mail <a href="mailto:de3gutter@gmail.com">de3gutter@gmail.com</a>
+Student Mail: <a href="mailto:coudru@student.aau.dk">coudru22@student.aau.dk</a>
+
+Personal Mail: <a href="mailto:de3gutter@gmail.com">de3gutter@gmail.com</a>
 
 ---
 
