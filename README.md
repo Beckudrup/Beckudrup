@@ -14,16 +14,21 @@ Hey👋! My name is Christoffer and I am currently attending the Medialogy Maste
 ---
 # Projects
 
+
 ---
 # Skills and Tools
 
+
 ---
 # Article(s)
+Oudrup, C. B., Krog, F. B., Winkel Missel, J., Abildgaard, L. L., Hansen, M. K., Jensen, N. B., & Schoenau-Fog, H. (2025, December). Killer on Board: Addressing the Narrative Paradox by Utilizing LLM-Driven NPCs. In International Conference on Interactive Digital Storytelling (pp. 158-176). Cham: Springer Nature Switzerland
 
 ---
 # Contact Information
 
-Contact me at: <a href="mailto:coudru@student.aau.dk">coudru22@student.aau.dk</a>
+Contact me at: 
+Student Mail <a href="mailto:coudru@student.aau.dk">coudru22@student.aau.dk</a>
+Personal Mail <a href="mailto:de3gutter@gmail.com">de3gutter@gmail.com</a>
 
 ---
 
