@@ -19,8 +19,9 @@ I have an interest in making visual effects and 3D objects for games.
           
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
 
+<img align="left" alt="C#" width="50px" style="padding-right:10px;"  src="https://github.com/user-attachments/assets/a2702c2c-37fc-4399-b36c-e650d988de9a" height="50" alt="3D Substance Painter"/>
+
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-          
 
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
        
