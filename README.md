@@ -1,5 +1,5 @@
 # About Me
-## Hey👋! 
+## Hey👋
 My name is Christoffer and I am currently attending the Medialogy Master at Aalborg University Copenhagen.  
 I have an interest in making visual effects and 3D objects for games.
 
