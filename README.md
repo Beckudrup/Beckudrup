@@ -7,19 +7,18 @@ I have an interest in making visual effects and 3D objects for games.
 # Skills and Tools
 
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-
           
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
           
-
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
 
-
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-          
-<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
 
 <img align="left" alt="C#" width="50px" style="padding-right:10px;"  src="https://github.com/user-attachments/assets/a2702c2c-37fc-4399-b36c-e650d988de9a" height="50" alt="3D Substance Painter"/>
+
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
+
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" width="960" height="957" alt="image" src="https://github.com/user-attachments/assets/c5bf75ff-aacb-4a87-a614-492faba91402" />
 
 <img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
