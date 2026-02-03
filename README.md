@@ -4,6 +4,36 @@ My name is Christoffer and I am currently attending the Medialogy Master at Aalb
 I have an interest in making visual effects and 3D objects for games.
 
 ---
+# Skills and Tools
+
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+          
+
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
+
+
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+          
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-plain.svg" />
+
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
+
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+       
+<img align="left" alt="C#" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+             
+
+              
+<br />
+
+<br />
+
+
+---
+
+
+
 # 🎓 Education
 
 <h2 align="center">| Level | Study | Place | Time Period | Focus |</h1>
@@ -37,10 +67,6 @@ I have an interest in making visual effects and 3D objects for games.
     <td></td> <!-- Empty cell to keep layout 2 per row -->
   </tr>
 </table>
-
----
-# Skills and Tools
-
 
 ---
 # Article(s)
