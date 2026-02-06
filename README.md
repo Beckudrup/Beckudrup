@@ -73,8 +73,23 @@ I have an interest in making visual effects and 3D objects for games.
              alt="Killer On Board"/>
       </a>
     </td>
+
+</tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong style="font-size:1.2rem;">Furious Fists</strong><br/>
+      <a href="https://github.com/deadlap/FuriousFists">
+          <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/9740d923-5b1e-4c1a-9c01-4dca1a19973b"
+          style=-"width:90%;height:auto;border-radius:8px;margin-top:5px;" 
+             alt="Furious Fists"/>
+      </a>
+    </td>
     <td></td> <!-- Empty cell to keep layout 2 per row -->
   </tr>
+
+
+          
+
 </table>
 
 ---
