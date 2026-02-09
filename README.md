@@ -121,6 +121,13 @@ Oudrup, C. B., Krog, F. B., Winkel Missel, J., Abildgaard, L. L., Hansen, M. K.,
 ---
 # Contact Information
 
+
+  <h1 align="center">Contact Details</h1>
+<p align="center">
+  <a href="https://discord.com/users/Beckudrup">
+    <img src="https://img.shields.io/badge/Discord-Beckudrup-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 Contact me at: 
 Student Mail: <a href="mailto:coudru@student.aau.dk">coudru22@student.aau.dk</a>
 
