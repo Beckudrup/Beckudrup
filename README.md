@@ -116,7 +116,7 @@ I have an interest in making visual effects and 3D objects for games 🎮.
 
 ---
 # Article(s)
-Oudrup, C. B., Krog, F. B., Winkel Missel, J., Abildgaard, L. L., Hansen, M. K., Jensen, N. B., & Schoenau-Fog, H. (2025, December). Killer on Board: Addressing the Narrative Paradox by Utilizing LLM-Driven NPCs. In International Conference on Interactive Digital Storytelling (pp. 158-176). Cham: Springer Nature Switzerland
+<a href = "https://link.springer.com/chapter/10.1007/978-3-032-12408-1_9"> Oudrup, C. B., Krog, F. B., Winkel Missel, J., Abildgaard, L. L., Hansen, M. K., Jensen, N. B., & Schoenau-Fog, H. (2025, December). Killer on Board: Addressing the Narrative Paradox by Utilizing LLM-Driven NPCs. In International Conference on Interactive Digital Storytelling (pp. 158-176). Cham: Springer Nature Switzerland. </a>
 
 ---
 # Contact Information
