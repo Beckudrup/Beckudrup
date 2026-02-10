@@ -47,11 +47,11 @@ I have an interest in making visual effects and 3D objects for games 🎮.
 
 <h2 align="center">| Level | Study | Place | Time Period | Focus |</h1>
 
-| 🟣 Masters **Current** | MSc Medialogy | AAU Copenhagen | Sep. 2025 -> | Building on BSc Medialogy foundations |
+| **Masters Current** | MSc Medialogy | AAU Copenhagen | Sep. 2025 -> | Building on BSc Medialogy foundations |
 
-| 🔵 Bachelor | BSc Medialogy | AAU Copenhagen | Sep. 2022 - June 2025 | 3D modelling, Visual effects, Programming, UX, user testing , user-centered design |
+| Bachelor | BSc Medialogy | AAU Copenhagen | Sep. 2022 - June 2025 | 3D modelling, Visual effects, Programming, UX, user testing , user-centered design |
 
-| 🟢 Entry Point | KOM IT A / Programming B | H.C. Ørsted Gymnasium | Aug. 2018 - June 2021 | First steps into software, programming, design, and working on a team |
+| Entry Point | KOM IT A / Programming B | H.C. Ørsted Gymnasium | Aug. 2018 - June 2021 | First steps into software, programming, design, and working on a team |
 
 ---
 # Projects
