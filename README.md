@@ -159,12 +159,12 @@ I have an interest in making visual effects and 3D objects for games 🎮.
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/deadlap/P404">
-        <img src="https://github.com/user-attachments/assets/5cd48bb6-dbaf-4cca-85b0-2912b8768ee9"
+        <img src="https://github.com/user-attachments/assets/07a9d341-2d54-4e7b-930c-acb7336f889d"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/deadlap/P404">
-        <img src="https://github.com/user-attachments/assets/5c2c554c-e475-4703-8e8f-6f1e65ace138"
+        <img src="https://github.com/user-attachments/assets/5cd48bb6-dbaf-4cca-85b0-2912b8768ee9"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
   </tr>
