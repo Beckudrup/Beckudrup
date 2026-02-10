@@ -88,7 +88,7 @@ I have an interest in making visual effects and 3D objects for games 🎮.
 <td align="center" width="50%">
       <strong style="font-size:1.2rem;">Finger Spelling (VR)</strong><br/>
       <a href="https://github.com/deadlap/P404">
-        <img width="1222" height="673" alt="image" src="https://github.com/user-attachments/assets/5cd48bb6-dbaf-4cca-85b0-2912b8768ee9" 
+        <img width="1222" height="673" alt="image" src="https://github.com/user-attachments/assets/07a9d341-2d54-4e7b-930c-acb7336f889d" 
              style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
              alt="Finger Spelling (VR)"/>
       </a>
