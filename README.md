@@ -55,51 +55,6 @@ I have an interest in making visual effects and 3D objects for games 🎮.
 
 ---
 # Projects
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong style="font-size:1.2rem;">The Burglary at the Museé d'Art Moderne de Paris</strong><br/>
-      <a href="https://beckudrup.itch.io/theburglaryatthe">
-        <img src="https://github.com/user-attachments/assets/fd1c1762-e636-4c96-8937-40d0a6ce3751" 
-             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="The Burglary"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <strong style="font-size:1.2rem;">Killer on Board</strong><br/>
-      <a href="https://deadpiegamer.itch.io/killer-on-board">
-        <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776" 
-             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="Killer On Board"/>
-      </a>
-    </td>
-
-
-
-<td align="center" width="50%">
-      <strong style="font-size:1.2rem;">Finger Spelling (VR)</strong><br/>
-      <a href="https://github.com/deadlap/P404">
-        <img width="1222" height="673" alt="image" src="https://github.com/user-attachments/assets/07a9d341-2d54-4e7b-930c-acb7336f889d" 
-             style="width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="Finger Spelling (VR)"/>
-      </a>
-    </td>
-
-</tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong style="font-size:1.2rem;">Spirit Bond</strong><br/>
-      <a href="https://beckudrup.itch.io/spirit-bond">
-          <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/61e7c92b-b383-4e8e-b030-92c4589cf1cf"
-          style=-"width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="Spirit Bond"/>
-      </a>
-    </td>
-    <td></td> <!-- Empty cell to keep layout 2 per row -->
-  </tr>
-
-</table>
-
 <table align="center" width="100%">
   
   <tr>
@@ -123,7 +78,7 @@ I have an interest in making visual effects and 3D objects for games 🎮.
   </tr>
 
   <tr>
-    <th colspan="2"><h3>A.R.M. Bot Adventure (<a href="https://github.com/deadlap/FuriousFists">Github</a>)</h3></th>
+    <th colspan="2"><h3>Furious Fists (<a href="https://github.com/deadlap/FuriousFists">Github</a>)</h3></th>
   </tr>
   <tr>
     <td align="center" width="50%">
@@ -168,6 +123,23 @@ I have an interest in making visual effects and 3D objects for games 🎮.
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
   </tr>
+
+  <tr>
+    <th colspan="2"><h3>Spirit Bond (<a href="https://beckudrup.itch.io/spirit-bond">Itch</a> / <a href="https://github.com/JakobMissel/SDU-Roguelike">Github</a>)</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/P404">
+        <img src="https://github.com/user-attachments/assets/61e7c92b-b383-4e8e-b030-92c4589cf1cf"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/P404">
+        <img src="https://github.com/user-attachments/assets/bf67f9a8-4ace-47e7-a9d5-7c53022d3d17"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+  </tr>
+
 
 </table>
 
