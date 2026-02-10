@@ -129,6 +129,7 @@ I have an interest in making visual effects and 3D objects for games 🎮.
   </a>
 </p>
 Contact me at: 
+
 Student Mail: <a href="mailto:coudru@student.aau.dk">coudru22@student.aau.dk</a>
 
 Personal Mail: <a href="mailto:de3gutter@gmail.com">de3gutter@gmail.com</a>
