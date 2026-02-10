@@ -74,16 +74,7 @@ I have an interest in making visual effects and 3D objects for games 🎮.
       </a>
     </td>
 
-</tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong style="font-size:1.2rem;">Furious Fists (VR)</strong><br/>
-      <a href="https://github.com/deadlap/FuriousFists">
-          <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/9740d923-5b1e-4c1a-9c01-4dca1a19973b"
-          style=-"width:90%;height:auto;border-radius:8px;margin-top:5px;" 
-             alt="Furious Fists"/>
-      </a>
-    </td>
+
 
 <td align="center" width="50%">
       <strong style="font-size:1.2rem;">Finger Spelling (VR)</strong><br/>
@@ -107,12 +98,82 @@ I have an interest in making visual effects and 3D objects for games 🎮.
     <td></td> <!-- Empty cell to keep layout 2 per row -->
   </tr>
 
-         
+</table>
 
+<table align="center" width="100%">
+  
+  <tr>
+    <th colspan="2"><h3>The Burglary at the Musée d'Art Moderne de Paris (<a href="https://beckudrup.itch.io/theburglaryatthe">Itch</a> / <a href="https://github.com/JakobMissel/DOAP-Difficulty-Oriented-Action-Planning">Github</a>)</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://beckudrup.itch.io/theburglaryatthe">
+        <img
+          src="https://github.com/user-attachments/assets/cf0965a6-8fb2-4e3c-82cd-559f1836dc9c"
+          style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/JakobMissel/DOAP-Difficulty-Oriented-Action-Planning">
+        <img
+          src="https://github.com/user-attachments/assets/98e729af-3093-4013-b166-fe765cdbb45e"
+          style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+      </a>
+    </td>
+  </tr>
 
- 
+  <tr>
+    <th colspan="2"><h3>A.R.M. Bot Adventure (<a href="https://github.com/deadlap/FuriousFists">Github</a>)</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/FuriousFists">
+        <img src="https://github.com/user-attachments/assets/6b5cdbe8-cb10-46ef-ac71-c228edb9d4f0"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/FuriousFists">
+        <img src="https://github.com/user-attachments/assets/9740d923-5b1e-4c1a-9c01-4dca1a19973b"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2"><h3>Killer On Boards (<a href="https://deadpiegamer.itch.io/killer-on-board">Itch</a> / <a href="https://github.com/deadlap/P606">Github</a>)</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://deadpiegamer.itch.io/killer-on-board">
+        <img src="https://github.com/user-attachments/assets/920ab101-885a-43bc-8319-4fee908c2776"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/P606">
+        <img src="https://github.com/user-attachments/assets/539ac01f-c70d-47c9-a961-14fd1462c03e"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+  </tr>
+
+  <tr>
+    <th colspan="2"><h3>FingerSpelling (<a href="https://github.com/deadlap/P404">Github</a>)</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/P404">
+        <img src="https://github.com/user-attachments/assets/5cd48bb6-dbaf-4cca-85b0-2912b8768ee9"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/P404">
+        <img src="https://github.com/user-attachments/assets/5c2c554c-e475-4703-8e8f-6f1e65ace138"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+  </tr>
 
 </table>
+
+
+
+
 
 ---
 # Article(s)
