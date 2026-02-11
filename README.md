@@ -78,21 +78,6 @@ I have an interest in making visual effects and 3D objects for games 🎮.
   </tr>
 
   <tr>
-    <th colspan="2"><h3>Furious Fists (<a href="https://github.com/deadlap/FuriousFists">Github</a>)</h3></th>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/deadlap/FuriousFists">
-        <img src="https://github.com/user-attachments/assets/6b5cdbe8-cb10-46ef-ac71-c228edb9d4f0"
-           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/deadlap/FuriousFists">
-        <img src="https://github.com/user-attachments/assets/9740d923-5b1e-4c1a-9c01-4dca1a19973b"
-           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
-    </td>
-  </tr>
-  <tr>
     <th colspan="2"><h3>Killer On Boards (<a href="https://deadpiegamer.itch.io/killer-on-board">Itch</a> / <a href="https://github.com/deadlap/P606">Github</a>)</h3></th>
   </tr>
   <tr>
@@ -107,7 +92,6 @@ I have an interest in making visual effects and 3D objects for games 🎮.
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
   </tr>
-
   <tr>
     <th colspan="2"><h3>FingerSpelling (<a href="https://github.com/deadlap/P404">Github</a>)</h3></th>
   </tr>
@@ -129,16 +113,34 @@ I have an interest in making visual effects and 3D objects for games 🎮.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/deadlap/P404">
+      <a href="https://beckudrup.itch.io/spirit-bond">
         <img src="https://github.com/user-attachments/assets/61e7c92b-b383-4e8e-b030-92c4589cf1cf"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/deadlap/P404">
+      <a href="https://github.com/JakobMissel/SDU-Roguelike">
         <img src="https://github.com/user-attachments/assets/bf67f9a8-4ace-47e7-a9d5-7c53022d3d17"
            style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
     </td>
   </tr>
+
+  <tr>
+    <th colspan="2"><h3>Furious Fists (<a href="https://github.com/deadlap/FuriousFists">Github</a>)</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/FuriousFists">
+        <img src="https://github.com/user-attachments/assets/6b5cdbe8-cb10-46ef-ac71-c228edb9d4f0"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/deadlap/FuriousFists">
+        <img src="https://github.com/user-attachments/assets/9740d923-5b1e-4c1a-9c01-4dca1a19973b"
+           style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+    </td>
+  </tr>
+
+
 
 
 </table>
