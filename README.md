@@ -59,6 +59,27 @@ In projects, I most often help with research and user evaluations to determine h
 ---
 # Projects
 <table align="center" width="100%">
+
+<tr>
+    <th colspan="2"><h3>Distant Arm Object Manipulation (<a href="https://beckudrup.itch.io/theburglaryatthe">Itch</a> / <a href="https://github.com/JakobMissel/DOAP-Difficulty-Oriented-Action-Planning">Github</a>)</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/FBKrog/Distant-Arm-Object-Manipulation">
+        <img
+          src="https://github.com/user-attachments/assets/b47f3b36-7842-43e1-99a0-4bc038e6f5c5"
+          style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/FBKrog/Distant-Arm-Object-Manipulation">
+        <img
+          src="https://github.com/user-attachments/assets/a602b4d1-20c8-464b-b8ae-6ea194c9f962"
+          style="width:100%; height:auto; border-radius:8px; margin-top:5px;">
+      </a>
+    </td>
+  </tr>
+
   
   <tr>
     <th colspan="2"><h3>The Burglary at the Musée d'Art Moderne de Paris (<a href="https://beckudrup.itch.io/theburglaryatthe">Itch</a> / <a href="https://github.com/JakobMissel/DOAP-Difficulty-Oriented-Action-Planning">Github</a>)</h3></th>
